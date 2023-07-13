@@ -70,4 +70,4 @@ We would like to acknowledge the following resources and projects that inspired 
 
 ## Contact
 
-If you have any questions or inquiries, please contact the development team at [admin-dashboard@example.com](mailto:admin-dashboard@example.com). We appreciate your interest in our project!
+If you have any questions or inquiries, please contact the development team at [RealFaresLharbi@gmail.com]. We appreciate your interest in our project!
